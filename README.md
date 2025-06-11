@@ -2,7 +2,7 @@
 
 ## AI-Assisted Programming, Local LLMs, and Cloud Computing
 
-In this quiz, you will need to complete two activities. The first involves creating a custom language model using [Ollama](https://ollama.com/). The second involves simple data analysis in Python using [AWS EC2](https://aws.amazon.com/ec2/). Both tasks relate to content covered in lectures 11, 13, 14, and 15.
+In this quiz, you will need to complete two activities. The first involves creating a custom language model using [Ollama](https://ollama.com/). The second involves simple data analysis in Python using [AWS EC2](https://aws.amazon.com/ec2/). 
 
 As we have done in previous quizzes, answers must be in a fork of the quiz repository, whose link you should submit on Canvas.
 
